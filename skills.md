@@ -1,6 +1,9 @@
-### My Technical Skills
+### My Technial Skills are
 
-Programming
-System adminstration
-Networking
-Cloud: aWS, azURe
+These are my prominient skills
+ - Programming
+ - Configuration management
+ - system Administration
+ - Cloud concepts - AWS, AZURE, GCP
+ - HPC
+ - Solutions Architecture
